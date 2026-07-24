@@ -112,7 +112,7 @@ Indian Institute of Information Technology, Bhopal
 
 ## 📜 Certifications
 
-- *No certifications listed in resume.*
+-<a href="https://drive.google.com/file/d/1Pt4tR8GWQ40xNaetesX3X3cb9zMsaWzP/view?usp=sharing">Mintzy
 
 ---
 
