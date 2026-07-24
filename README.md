@@ -112,9 +112,15 @@ Indian Institute of Information Technology, Bhopal
 
 ## 📜 Certifications
 
--<a href="https://drive.google.com/file/d/1Pt4tR8GWQ40xNaetesX3X3cb9zMsaWzP/view?usp=sharing">Mintzy
+<p align="center">
 
----
+<a href="https://drive.google.com/file/d/1Pt4tR8GWQ40xNaetesX3X3cb9zMsaWzP/view?usp=sharing">
+<img src="https://img.shields.io/badge/🏆_Mintzy_AI_Internship_Certificate-0A66C2?style=for-the-badge&logo=google-drive&logoColor=white"/>
+</a>
+
+</p>
+
+> Successfully completed my internship at **Mintzy AI**, contributing to market research, lead generation, and go-to-market strategies for an AI-powered fintech startup.
 
 ## 🤝 Connect with Me
 
