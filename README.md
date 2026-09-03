@@ -100,27 +100,48 @@ Indian Institute Of Information Technology, Bhopal | DSA Enthusiast
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_USERNAME]&theme=tokyonight&hide_border=true" height="180"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    height="180"
+    alt="GitHub Stats"
+  />
+  <img 
+    src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="GitHub Streak"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="Top Languages"
+  />
 </p>
 
 ## GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=[YOUR_USERNAME]&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" width="90%"/>
-</p>
-
-<p align="center">
-  <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif" width="100%" alt="divider"/>
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"
+    width="95%"
+    alt="GitHub Trophies"
+  />
 </p>
 
 ## Certifications
 
-- **Full Stack Web Developer Internship Certificate** — Mintzy AI
+### 🎓 Full Stack Web Developer Internship
+
+**Mintzy AI** | May 2026 – June 2026
+
+- Completed a Full Stack Web Developer Internship at Mintzy AI.
+- Developed and enhanced full-stack web application features across frontend and backend.
+- Integrated RESTful APIs and worked with databases to manage application data.
+- Debugged, tested, and validated application functionality across the stack.
+
+📜 **[View Certificate]([YOUR_CERTIFICATE_LINK](https://drive.google.com/file/d/1-BU_p7nzwMeuJiRoqzeJnI2rlpPbQfZj/view?usp=sharing))**
 
 ## Achievements
 
