@@ -1,36 +1,119 @@
-<h1 align="center">Hi, I'm Piyush Raj</h1> <h3 align="center">Full Stack Web Developer & AI Enthusiast<br> Indian Institute Of Information Technology, Bhopal | DSA Enthusiast</h3> <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Agentic+AI+%26+Multi-Agent+Systems;Competitive+Programmer;DSA+Enthusiast&font=Fira+Code&center=true&color=00F7FF&width=600&height=50"/> <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif"/>
-About Me
-B.Tech. in Electronics and Communication at Indian Institute Of Information Technology, Bhopal
-Full Stack Web Developer Intern at Mintzy AI
-Building multi-agent AI systems and full-stack web applications
-Passionate about DSA, competitive programming, and AI/ML
-Solved 500+ algorithmic challenges across coding platforms
-Instagram: Not listed on resume
-Tech Stack
-<!-- Use devicons from jsdelivr.net --> <p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> </p>
-Featured Projects
-Multi-Agent Research Pipeline
-Tech: TypeScript, Node.js, Express, Gemini API, Agentic AI
-Architected a framework-free multi-agent orchestration system with Researcher, Writer, and Critic agents and an automated revision loop.
-Built human-in-the-loop approval, crash-safe run persistence, per-agent cost/latency observability, retry-with-backoff, and real-time run monitoring.
-Weather WebApp
-Tech: JavaScript, REST API, OpenWeatherMap API, HTML5/CSS3
-Developed a responsive real-time weather application with current conditions, hourly trends, and 5-day forecasts for global locations.
-Integrated Geolocation API, asynchronous requests, local caching, autocomplete, unit conversion, animated weather cards, and responsive UI.
-GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=tokyonight"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_USERNAME]&theme=tokyonight"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=tokyonight"/>
-GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=[YOUR_USERNAME]&theme=onestar&no-frame=true"/> <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif"/>
-Certifications
-Full Stack Web Developer Internship Certificate — Mintzy AI
-Achievements
-Excelled in competitive programming: secured CodeChef 2-star and LeetCode (300) while solving 500+ algorithmic challenges spanning data structures and algorithms.
-Achieved prominent Global/Regional rank in coding contests and competitive programming challenges across major national platforms.
-Connect with Me
+<h1 align="center">Hi 👋, I'm Piyush Raj</h1>
 
-GitHub: GitHub
-LinkedIn: LinkedIn
-Email: piyushrj9260@gmail.com
+<h3 align="center">
+Full Stack Web Developer & AI Enthusiast<br/>
+Indian Institute Of Information Technology, Bhopal | DSA Enthusiast
+</h3>
 
-Keep Learning, Keep Building,
-Keep Growing ■
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&height=50&lines=Full+Stack+Web+Developer;Agentic+AI+%26+Multi-Agent+Systems;Competitive+Programmer;DSA+Enthusiast" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif" width="100%" alt="divider"/>
+</p>
+
+## About Me
+
+- 🎓 B.Tech. in Electronics and Communication at **Indian Institute Of Information Technology, Bhopal**
+- 💻 Full Stack Web Developer Intern at **Mintzy AI**
+- 🤖 Building **Agentic AI & Multi-Agent Systems**
+- 🧠 Passionate about **Data Structures, Algorithms, AI/ML & Full Stack Development**
+- 🏆 Solved **500+ algorithmic challenges**
+- ⭐ **CodeChef 2-Star** and **LeetCode 300**
+- 🚀 Always learning, building, and solving challenging problems
+
+## Tech Stack
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45" alt="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="SQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45" height="45" alt="TensorFlow"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="45" height="45" alt="OpenCV"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45" alt="Linux"/>
+</p>
+
+<p align="center">
+  <b>Python • C++ • C • Java • JavaScript • SQL • TensorFlow • Keras • Hugging Face • Transformer • OpenCV • Scikit-learn • Pandas • NumPy • Tesseract OCR • Agentic AI</b>
+</p>
+
+## Featured Projects
+
+### 🤖 Multi-Agent Research Pipeline
+
+- **Tech:** TypeScript, Node.js, Express, Gemini API, Agentic AI
+- Architected a **multi-agent orchestration system** with Researcher, Writer, and Critic agents from first principles without using a framework.
+- Implemented an **automated revision loop** supporting up to 3 iterative critique cycles.
+- Built **human-in-the-loop approval** to override automated agent decisions.
+- Added crash-safe persistence with complete research, draft history, and outcomes stored as structured JSON.
+- Implemented per-agent **cost and latency observability**, reducing per-run cost to under **$0.001**.
+- Engineered retry-with-backoff for rate limits and dedicated recovery paths for provider content-policy failures.
+- Built a live **Express web UI** for real-time run monitoring.
+
+### 🌦️ Weather WebApp
+
+- **Tech:** JavaScript, REST API, OpenWeatherMap API, HTML5, CSS3
+- Developed a responsive **real-time weather forecast application** for global locations.
+- Provides current conditions, hourly trends, and **5-day forecasts**.
+- Integrated **OpenWeatherMap API** and Geolocation API with asynchronous request handling.
+- Added local caching that reduced response latency by **35%**.
+- Implemented city search autocomplete, °C/°F unit conversion, animated weather cards, and responsive layouts.
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_USERNAME]&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+## GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=[YOUR_USERNAME]&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" width="90%"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif" width="100%" alt="divider"/>
+</p>
+
+## Certifications
+
+- **Full Stack Web Developer Internship Certificate** — Mintzy AI
+
+## Achievements
+
+- 🏆 **CodeChef 2-Star** and **LeetCode 300**
+- 💡 Solved **500+ algorithmic challenges** spanning Data Structures and Algorithms.
+- 🌎 Achieved prominent **Global/Regional ranks** in coding contests and competitive programming challenges across major national platforms.
+
+## Connect with Me
+
+<p align="center">
+  <a href="https://github.com/[YOUR_USERNAME]">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:piyushrj9260@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+<p align="center">
+  📧 <b>piyushrj9260@gmail.com</b>
+</p>
+
+<h3 align="center">
+Keep Learning • Keep Building • Keep Growing 🚀
+</h3>
