@@ -120,16 +120,6 @@ Indian Institute Of Information Technology, Bhopal | DSA Enthusiast
   />
 </p>
 
-## GitHub Trophies
-
-<p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"
-    width="95%"
-    alt="GitHub Trophies"
-  />
-</p>
-
 ## Certifications
 
 ### 🎓 Full Stack Web Developer Internship
@@ -141,7 +131,7 @@ Indian Institute Of Information Technology, Bhopal | DSA Enthusiast
 - Integrated RESTful APIs and worked with databases to manage application data.
 - Debugged, tested, and validated application functionality across the stack.
 
-📜 **[View Certificate]([YOUR_CERTIFICATE_LINK](https://drive.google.com/file/d/1-BU_p7nzwMeuJiRoqzeJnI2rlpPbQfZj/view?usp=sharing))**
+📜 **[View Certificate](https://drive.google.com/file/d/1-BU_p7nzwMeuJiRoqzeJnI2rlpPbQfZj/view?usp=sharing)**
 
 ## Achievements
 
