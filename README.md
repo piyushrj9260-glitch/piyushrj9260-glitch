@@ -72,18 +72,8 @@ Indian Institute Of Information Technology, Bhopal | DSA Enthusiast
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=piyushrj9260-glitch&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats"/>
+  
   <img src="https://streak-stats.demolab.com?user=piyushrj9260-glitch&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushrj9260-glitch&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages"/>
-</p>
-
-## GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=piyushrj9260-glitch&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" width="95%" alt="GitHub Trophies"/>
 </p>
 
 ## Certifications
