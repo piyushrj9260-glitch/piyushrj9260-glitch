@@ -27,16 +27,48 @@ Indian Institute Of Information Technology, Bhopal | DSA Enthusiast
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45" alt="C"/>
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="SQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45" height="45" alt="TensorFlow"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="45" height="45" alt="OpenCV"/>
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45" alt="Linux"/>
+</p>
+
+<p align="center">
+  <b>Python</b> &nbsp;•&nbsp;
+  <b>C++</b> &nbsp;•&nbsp;
+  <b>C</b> &nbsp;•&nbsp;
+  <b>Java</b> &nbsp;•&nbsp;
+  <b>JavaScript</b> &nbsp;•&nbsp;
+  <b>SQL</b> &nbsp;•&nbsp;
+  <b>Git</b> &nbsp;•&nbsp;
+  <b>GitHub</b> &nbsp;•&nbsp;
+  <b>Linux</b>
+</p>
+
+<p align="center">
+  <b>TensorFlow</b> &nbsp;•&nbsp;
+  <b>Keras</b> &nbsp;•&nbsp;
+  <b>Hugging Face</b> &nbsp;•&nbsp;
+  <b>Transformer</b> &nbsp;•&nbsp;
+  <b>OpenCV</b>
+</p>
+
+<p align="center">
+  <b>Scikit-learn</b> &nbsp;•&nbsp;
+  <b>Pandas</b> &nbsp;•&nbsp;
+  <b>NumPy</b> &nbsp;•&nbsp;
+  <b>Tesseract OCR</b> &nbsp;•&nbsp;
+  <b>Agentic AI Orchestration</b>
 </p>
 
 <p align="center">
