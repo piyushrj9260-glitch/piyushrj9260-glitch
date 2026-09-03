@@ -44,34 +44,6 @@ Indian Institute Of Information Technology, Bhopal | DSA Enthusiast
 </p>
 
 <p align="center">
-  <b>Python</b> &nbsp;•&nbsp;
-  <b>C++</b> &nbsp;•&nbsp;
-  <b>C</b> &nbsp;•&nbsp;
-  <b>Java</b> &nbsp;•&nbsp;
-  <b>JavaScript</b> &nbsp;•&nbsp;
-  <b>SQL</b> &nbsp;•&nbsp;
-  <b>Git</b> &nbsp;•&nbsp;
-  <b>GitHub</b> &nbsp;•&nbsp;
-  <b>Linux</b>
-</p>
-
-<p align="center">
-  <b>TensorFlow</b> &nbsp;•&nbsp;
-  <b>Keras</b> &nbsp;•&nbsp;
-  <b>Hugging Face</b> &nbsp;•&nbsp;
-  <b>Transformer</b> &nbsp;•&nbsp;
-  <b>OpenCV</b>
-</p>
-
-<p align="center">
-  <b>Scikit-learn</b> &nbsp;•&nbsp;
-  <b>Pandas</b> &nbsp;•&nbsp;
-  <b>NumPy</b> &nbsp;•&nbsp;
-  <b>Tesseract OCR</b> &nbsp;•&nbsp;
-  <b>Agentic AI Orchestration</b>
-</p>
-
-<p align="center">
   <b>Python • C++ • C • Java • JavaScript • SQL • TensorFlow • Keras • Hugging Face • Transformer • OpenCV • Scikit-learn • Pandas • NumPy • Tesseract OCR • Agentic AI</b>
 </p>
 
@@ -99,24 +71,11 @@ Indian Institute Of Information Technology, Bhopal | DSA Enthusiast
 
 ## GitHub Stats
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-    height="180"
-    alt="GitHub Stats"
-  />
+<p align="center">    
   <img 
     src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"
     height="180"
     alt="GitHub Streak"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"
-    height="180"
-    alt="Top Languages"
   />
 </p>
 
